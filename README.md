@@ -41,7 +41,7 @@ The dataset consisted of five tables, including information about website traffi
 - **2015 Forecast & Trend Strategy**: Prepare early for Q4 peak demand, leverage seasonal marketing campaigns year-round, and use predictive data to optimize ad spend and inventory planning.
 
 ## Dashboard
-The dashboard can be found in PowerBI Service [here](public.tableau.com/app/profile/christine3803/viz/RowHealthDashboard/Dashboard). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
+The dashboard can be found in PowerBI Service [here](https://app.powerbi.com/view?r=eyJrIjoiZmU0N2UwMTQtN2U2MC00MDJlLWJiYjgtMGY2MWUyMjQ3ZWUyIiwidCI6Ijc4NGU5YWE4LWI4ZjQtNGFhOS1iMTgzLTE5ODExNjE5YjllZSJ9). This dashboard enables users to filter by plan, campaign type, and state, and focuses on trends and values in marketing metrics, signup metrics, and claim metrics.
 
 <img width="812" alt="image" src="https://github.com/JennyNgo273/MavenFuzzyFactory-/blob/master/dashboard.png ">
 
