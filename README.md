@@ -1,6 +1,6 @@
 # Maven Fuzzy Factory Marketing Insights 2014 - 2015 - Project Overview
 ## The goal of this project is to investigate the performance of marketing campaigns at Maven Fuzzy Factory to surface recommendations on marketing budget allocation across future campaign categories. 
-
+<!-- This is commented out. -->
 **Founded in 2012, Maven Fuzzy Factory is an e-commerce company that sells popular toys especially types of bears via its website and mobile app**. **In 2014 - 2015, they launched a fourth product targeting the birthday gift market - The Hudson River Mini Bear and giving customers the option to add 2nd product while on the /cart page** to implement the **cross selling** analysis. 
 
 Now that they’ve hired a new data team and are strategizing their marketing budget for the year, the company would like to build more understanding of the effectiveness of these campaign categories and how they relate to launching new product and cross selling option. 
