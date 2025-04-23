@@ -14,7 +14,7 @@ The CLV analysis is designed to drive two primary objectives:
 ## Dataset Structure
 The dataset consists of six interconnected tables within a star schema, including information about customers, orders, order items, products, website sessions, and acquisition channels.
 
-![Data Structure](https://github.com/JennyNgo273/MavenFuzzyFactory-/blob/master/CLV-data-structure.PNG)
+![Data Structure](https://github.com/JennyNgo273/MavenFuzzyFactory-/blob/main/dataset.png)
 
 ## Insights Summary
 ### In order to evaluate CLV distribution, we focused on the following key metrics:
